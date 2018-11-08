@@ -1,0 +1,73 @@
+div.logo {
+          width:90%;
+          height:30%;
+          background-color:lime;
+          border-radius:30px;
+
+}
+
+
+
+
+
+div.col1 {
+          float:left;
+          width:30%;
+          height:330px;
+          background-color: green;
+
+}
+div.img1 {
+         position:absolute;
+         top:200px;
+         left:100px;
+}
+
+
+div.col2 {
+         float:left;
+         width:30%;
+         height:330px;
+         background-color: brown;
+
+
+}
+
+
+div.col3 {
+          float:left;
+          width:30%;
+          height:330px;
+          background-color: grey;
+}
+
+.logo{
+  text-align: center;
+}
+
+nav.nav{
+         width:90%;
+         height:30px;
+
+
+}
+.nav{
+      text-align: center;
+
+}
+a { background-color: orange;}
+a:link {color:green;}
+a:visited{color:red;}
+a:hover{color:lime;}
+a:active{color:black;}
+
+div.bgimg {
+
+             width:100%;
+             height:640px;
+             background-image: url("img/tree1.png");
+
+}
+p.text1 {
+          text-shadow: 1px 1px 1em white;
+}
